@@ -1,2 +1,3 @@
 db/
 wordpress/wp-config.php
+/vendor/
